@@ -21,5 +21,3 @@ function randomInteger(min, max) {
     rand = Math.round(rand);
     return rand;
   }
-
-  console.log('Git 4ever!');
